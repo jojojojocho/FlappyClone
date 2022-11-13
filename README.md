@@ -1,2 +1,3 @@
-# bird
+# FlappyClone
+
 unity연습
